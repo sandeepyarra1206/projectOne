@@ -1,2 +1,14 @@
 <h1>This is About page</h1>
-<h1>This is About page</h1>
+<p>GitHub is a cloud-based platform used to:
+
+Store code online (repositories)
+
+Track changes using Git
+
+Collaborate with other developers
+
+Manage versions of a project
+
+ Git = version control tool
+ GitHub = place to store Git repositories online
+</p>
