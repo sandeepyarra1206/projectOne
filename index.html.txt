@@ -1,0 +1,3 @@
+<h1>GitHub is a distribute version control system</h1>
+Git: local laptop
+Github: It is Cloud based server
